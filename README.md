@@ -1,6 +1,6 @@
 # SQLTools MaxCompute Driver
 
-This is a SQLTools plugin to integrate with Alibaba Cloud [MaxCompute](https://maxcompute.console.aliyun.com/).
+This is a [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) plugin to integrate with Alibaba Cloud [MaxCompute](https://maxcompute.console.aliyun.com/). Providing for running MaxCompute SQL and getting results, SQL formatting, generating SQL statements and SQL completion.
 
 # Premises and Recommends
 
