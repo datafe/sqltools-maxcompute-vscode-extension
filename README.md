@@ -4,7 +4,7 @@ This is a [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sq
 
 # Premises and Recommends
 
-This plugin is only for connection testing and local resources management, please use below products for development and production.
+This plugin is only for connection testing and local resources management and does not support MaxCompute schema features (by now), please use below products for development and production.
 
 - Big data development, recommend to use [DataWorks Data IDE](https://ide-cn-shanghai.data.aliyun.com/) instead.
 
@@ -26,7 +26,7 @@ This plugin is only for connection testing and local resources management, pleas
 
 - Install the [SQLTools MaxCompute Driver](https://marketplace.visualstudio.com/items?itemName=dataworks.sqltools-driver-maxcompute) plugin
 
-- Open the SQLTools plugin and create a new connection, input your accessId, accessKey, MaxCompute project and endpoint (for example: http://service.cn-shanghai.maxcompute.aliyun.com/api)
+- Open the SQLTools plugin and create a new connection, input your accessId, accessKey, MaxCompute project and [endpoint](https://help.aliyun.com/zh/maxcompute/user-guide/endpoints) (endpoint depends on your MaxCompute regions, for example: http://service.cn-shanghai.maxcompute.aliyun.com/api)
 
 ![SQLTools Connection](https://img.alicdn.com/imgextra/i4/O1CN01XYtcHI1r3OzP34QjG_!!6000000005575-0-tps-2878-1668.jpg)
 
